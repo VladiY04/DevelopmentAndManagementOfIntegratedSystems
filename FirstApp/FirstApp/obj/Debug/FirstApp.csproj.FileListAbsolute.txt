@@ -1,0 +1,29 @@
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.ProjectIWFA.resources
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormSpecialty.resources
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+D:\Users\User\Desktop\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.ProjectIWFA.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormGrade.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormSpecialty.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormStudent.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormSubject.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormEditSpecialty.resources
+D:\Users\User\Desktop\Uni 8th semester\Разраб. и упр. на интегрирани инг. системи\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.FormViewSpecialties.resources
